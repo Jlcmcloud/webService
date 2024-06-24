@@ -1,0 +1,6 @@
+django
+mysqlclient
+django-rest-framework
+django-cors-headers
+django-crispy-forms
+requests
